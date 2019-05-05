@@ -1,5 +1,5 @@
 # Find My Results [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/TN-ctf/FindMyResults)
-[![GitHub (pre-)release](https://img.shields.io/badge/version-v1.0.9-orange.svg)]() 
+[![GitHub (pre-)release](https://img.shields.io/badge/version-v1.0.9-orange.svg)](https://github.com/0xCTF/FindMyResults/releases/tag/1.0.9) 
 [![GitHub (pre-)release](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)]() 
 ![Security](https://hakiri.io/github/jekyll/jekyll/master.svg)
 
