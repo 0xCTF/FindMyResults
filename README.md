@@ -17,7 +17,7 @@
 
 
 
-**Find My Results** is a JAVA software based on selenium framework. This project provides the needed information to Tunisian students ![](resources/images/tn.png) by letting them navigate easily between the different categories that gather data from couple websites.
+**Find My Results** is a JAVA software based on selenium framework. This project provides the needed information to Tunisian students ![](/resources/images/tn.png) by letting them navigate easily between the different categories that gather data from couple websites.
 
 **Find My Results** allows you to :
 
