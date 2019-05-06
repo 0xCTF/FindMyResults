@@ -26,7 +26,7 @@
 * Verify your personel informations
 * See the results
 * Check your payment receipts
-* Check your university scholorship (*only OOUS for now*)
+* Check your university scholarship (*only OOUS for now*)
 
 ## Purpose
 This software facilitate the access to the information for the students who faced a difficulty to use the official website(s) due to a several problems discovered recently.
