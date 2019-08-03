@@ -3,7 +3,7 @@
 [![GitHub (pre-)release](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)]() 
 ![Security](https://hakiri.io/github/jekyll/jekyll/master.svg)
 
-> This is my first Java Project. Feel free to make changes.
+> Feel free to make changes.
 
 
 ---
