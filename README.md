@@ -31,6 +31,9 @@
 ## Purpose
 This software facilitate the access to the information for the students who faced a difficulty to use the official website(s) due to a several problems discovered recently.
 
+## Known Issues
+* Very slow due to an incorrect loop
+* If the student doesn't have a picture on the student card, the software will not work
 
 ## Author and contributors
 [*Mohamed Jawadi*](https://facebook.com/lord.of.Dj) (*Creator, developer*)
