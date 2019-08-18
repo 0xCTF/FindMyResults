@@ -576,7 +576,7 @@ public class Connection extends JFrame {
 			@Override
 			public void mousePressed(MouseEvent e) {
 				try {
-					URI uri = new URI("https://www.facebook.com/Lord.of.Dj");
+					URI uri = new URI("https://facebook.com/0xmohamed");
 					Desktop desktop = null;
 					if (Desktop.isDesktopSupported()) {
 						desktop = Desktop.getDesktop();
