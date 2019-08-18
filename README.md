@@ -36,7 +36,7 @@ This software facilitate the access to the information for the students who face
 * If the student doesn't have a picture on the student card, the software will not work
 
 ## Author and contributors
-[*Mohamed Jawadi*](https://facebook.com/lord.of.Dj) (*Creator, developer*)
+[*Mohamed Jawadi*](https://facebook.com/0xmohamed) (*Creator, developer*)
 
 ## Contributing
 
